@@ -4,6 +4,7 @@ enableRobotsTXT = true
 theme = "compose"
 enableGitInfo = true
 
+publishDir = "docs"
 disableKinds = ["taxonomy", "taxonomyTerm"]
 
 [markup]
@@ -46,4 +47,3 @@ disableKinds = ["taxonomy", "taxonomyTerm"]
     icon = "github.svg"
     url = "https://github.com/elu00/Latex-Quickstart"
 
-publishDir = "docs"
