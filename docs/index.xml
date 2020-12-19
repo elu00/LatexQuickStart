@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>LaTeX 101 on Latex Quickstart</title>
+    <title>LaTeX Quickstart on Latex Quickstart</title>
     <link>https://elu00.github.io/LatexQuickStart/</link>
-    <description>Recent content in LaTeX 101 on Latex Quickstart</description>
+    <description>Recent content in LaTeX Quickstart on Latex Quickstart</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://elu00.github.io/LatexQuickStart/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Installation</title>
@@ -11,7 +11,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elu00.github.io/LatexQuickStart/installation/</guid>
-      <description>First, download the executable</description>
+      <description>To get started with installing TeX, you&#39;ll first need to choose a variant, or &amp;quot;distribution,&amp;quot; to install. Although there previously were major difference between the different distributions, by now, most of the differences between the distributions are just historical. For this tutorial, we&#39;ll be using MiKTeX, although alternatives like TeXLive should work just as well.</description>
     </item>
     
     <item>
@@ -20,25 +20,26 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elu00.github.io/LatexQuickStart/editor/</guid>
-      <description>Visual Studio Code Download Extension Setup </description>
+      <description>Visual Studio Code Visual Studio Code
+Download Extension Setup </description>
     </item>
     
     <item>
       <title>Document Setup and Math Basics</title>
-      <link>https://elu00.github.io/LatexQuickStart/customize/</link>
+      <link>https://elu00.github.io/LatexQuickStart/editing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elu00.github.io/LatexQuickStart/customize/</guid>
+      <guid>https://elu00.github.io/LatexQuickStart/editing/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>More Resources</title>
+      <title>FAQ and More Resources</title>
       <link>https://elu00.github.io/LatexQuickStart/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elu00.github.io/LatexQuickStart/resources/</guid>
-      <description> https://tex.stackexchange.com/ Google DeTeXify  </description>
+      <description>FAQ Other resources  https://tex.stackexchange.com/ Google DeTeXify  </description>
     </item>
     
   </channel>
