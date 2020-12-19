@@ -33,7 +33,8 @@ Extension Setup After having installed MiKTeX and Perl from the last step, we&#3
       <guid>https://elu00.github.io/LatexQuickStart/editing/</guid>
       <description>Compilation testing and workflow Now that our entire workflow is setup, let&#39;s go ahead and test our setup! We&#39;ll begin by just making a new file with the .tex file extension and copy pasting our template into it:
  Now just go ahead and build/view the project using the button in the top right:
-   and</description>
+   and you should see something similar to this!
+ Now you&#39;re up and ready to go!</description>
     </item>
     
     <item>
