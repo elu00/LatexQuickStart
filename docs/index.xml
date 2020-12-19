@@ -31,7 +31,17 @@ Extension Setup After having installed MiKTeX and Perl from the last step, we&#3
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elu00.github.io/LatexQuickStart/editing/</guid>
-      <description></description>
+      <description>Compilation testing and workflow Now that our entire workflow is setup, let&#39;s go ahead and test our setup! We&#39;ll begin by just making a new file with the .tex file extension:
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://elu00.github.io/LatexQuickStart/template/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://elu00.github.io/LatexQuickStart/template/</guid>
+      <description>1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 51 52 53 54 55 56 57 58 59 60 61 62 63 64 65 66 67 68 69 70 71 72 73 74 75  \documentclass[11pt,onecolumn,fleqn]{article} \usepackage[latin1]{inputenc} \usepackage{enumerate} \usepackage[hang,flushmargin]{footmisc} \usepackage{amsmath} \usepackage{amsfonts} \usepackage{amssymb} \usepackage{amsthm} \usepackage{xcolor} \usepackage{graphicx} \theoremstyle{definition} \newtheorem{theorem}{Theorem}[section] \newtheorem{lemma}[theorem]{Lemma} \newtheorem{corollary}[theorem]{Corollary} \newtheorem{proposition}[theorem]{Proposition} \newtheorem{definition}[theorem]{Definition} \newtheorem{example}[theorem]{Example} \setlength{\oddsidemargin}{0pt} \setlength{\textwidth}{460pt} \setlength{\voffset}{-1cm} \setlength{\textheight}{21cm} \setlength{\parindent}{0pt} \setlength{\parskip}{10pt} \newcommand{\TT}{$\checkmark$} \newcommand{\FF}{$\times$} \newcommand{\sln}{\subsection*{Solution}} \newcommand{\prf}{\textbf{Proof} \\} \begin{document} \thispagestyle{empty} \begin{center} {\Huge 21-128 and 15-151 problem sheet 1 } \\ YourName, Section YourSection \\ AndrewID: YourAndrewID \end{center} \subsubsection*{Problem 1} Insert problem here!</description>
     </item>
     
     <item>

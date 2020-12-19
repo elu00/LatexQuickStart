@@ -17,14 +17,7 @@ Then the first result should be LaTeX Workshop, which you'll then want to go ahe
 
 {{< picture "Extension3.png" "Extension3.png" "The installation page" >}}
 
-After doing this, you should be good to go!
+Now if you see the same installed screen as above, you're good to go!
+Let's now move on to document and typesetting basics.
 
 
-
-```
-\documentclass{article}
-
-\begin{document}
-Test
-\end{document}
-```
