@@ -21,8 +21,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elu00.github.io/LatexQuickStart/editor/</guid>
-      <description>Visual Studio Code Visual Studio Code
-Download Extension Setup </description>
+      <description>Visual Studio Code While there are a plethora of different \(\LaTeX\) editors/IDEs out there, for the purposes of this class, we recommend using Visual Studio Code, a general purpose text/code editor that also comes with really nice plugin support for TeX. For the rest of this page, we&#39;ll assume you already have VS Code installed; if not, it&#39;s just another installer away at their download page.
+Extension Setup After having installed MiKTeX and Perl from the last step, we&#39;ll now setup the various plugins and integrations in VS Code.</description>
     </item>
     
     <item>
@@ -35,12 +35,13 @@ Download Extension Setup </description>
     </item>
     
     <item>
-      <title>FAQ and More Resources</title>
+      <title>Other Resources</title>
       <link>https://elu00.github.io/LatexQuickStart/resources/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://elu00.github.io/LatexQuickStart/resources/</guid>
-      <description>FAQ Other resources  https://tex.stackexchange.com/ Google DeTeXify  </description>
+      <description>Of course, this site is by no means meant to be a comprehensive tutorial on using \(\LaTeX\). If you&#39;re interested in learning more, or are looking for troubleshooting help with anything, check out the links below!
+ DeTeXify - a site to help identify symbols or letters that you might not be familiar with. StackExchange - a general forum for troubleshooting or debugging. Overleaf and their documentation - an online alternative to running LaTeX locally, that also includes an excellent documentation site.</description>
     </item>
     
   </channel>

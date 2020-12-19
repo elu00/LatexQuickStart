@@ -2,7 +2,7 @@
 title: "Installation"
 weight: 11
 ---
-# MiKTeX
+## MiKTeX
 To get started with installing TeX, you'll first need to choose a variant, or "distribution," to install.
 Although there previously were major difference between the different distributions, by now, most of the differences between the distributions are just historical.
 For this tutorial, we'll be using [MiKTeX](https://miktex.org/), although alternatives like [TeXLive](https://www.tug.org/texlive/) should work just as well.
@@ -14,7 +14,7 @@ For this tutorial, we'll be using [MiKTeX](https://miktex.org/), although altern
 3. Now after the installer finishes, verify that everything's working by opening a command prompt (i.e., by pressing ``Windows + R`` and typing ``cmd``) then running the command ``pdflatex``. If your prompt looks below, then you're good to go! Now just hit ``Ctrl + c`` and close the window!
 
 {{< picture "terminal.png" "terminal.png" "The installation page" >}}
-# Perl
+## Perl
 After installing MiKTeX, we'll also need to install Perl, an extra piece of software that makes working with the compiler slightly nicer.
 To do so, just visit the [homepage](https://strawberryperl.com/) and run the installer of your choice.
 Again, this process is pretty straightforward, but is included below for completeness.
