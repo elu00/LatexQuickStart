@@ -14,4 +14,8 @@ Now just go ahead and build/view the project using the button in the top right:
 {{< picture "build.png" "build.png" "The installation page" >}}
 {{< picture "view.png" "view.png" "The installation page" >}}
 
-and 
+and you should see something similar to this!
+
+{{< picture "side.png" "side.png" "The installation page" >}}
+
+Now you're up and ready to go!
